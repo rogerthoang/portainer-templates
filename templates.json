@@ -13312,13 +13312,13 @@
         {
           "name": "PGID",
           "label": "PGID",
-          "default": "15000",
+          "default": "100",
           "preset": true
         },
         {
           "name": "PUID",
           "label": "PUID",
-          "default": "15000",
+          "default": "1000",
           "preset": true
         }
       ],
